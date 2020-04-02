@@ -1,3 +1,13 @@
 # algorithm_set
+* [概念](https://github.com/LongJinCen/algorithm_set/blob/master/%E6%A6%82%E5%BF%B5/%E6%A6%82%E5%BF%B5.md)
 * 牛客
   * [剑指Offer](https://github.com/LongJinCen/algorithm_set/blob/master/%E7%89%9B%E5%AE%A2/%E5%89%91%E6%8C%87Offer.md)
+  * [2019校招真题编程练习](https://github.com/LongJinCen/algorithm_set/blob/master/%E7%89%9B%E5%AE%A2/2019%E6%A0%A1%E6%8B%9B%E7%9C%9F%E9%A2%98%E7%BC%96%E7%A8%8B%E7%BB%83%E4%B9%A0.md)
+* LeetCode
+* 其他
+  * [动态规划](https://github.com/LongJinCen/algorithm_set/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.md)
+  * [字符串](https://github.com/LongJinCen/algorithm_set/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+  * [排序](https://github.com/LongJinCen/algorithm_set/blob/master/%E6%8E%92%E5%BA%8F/%E6%8E%92%E5%BA%8F.md)
+  * [数据结构](https://github.com/LongJinCen/algorithm_set/edit/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
+  * [数据相关](https://github.com/LongJinCen/algorithm_set/blob/master/%E6%95%B0%E7%BB%84%E7%9B%B8%E5%85%B3/%E6%95%B0%E7%BB%84%E7%9B%B8%E5%85%B3.md)
+  * [其他](https://github.com/LongJinCen/algorithm_set/blob/master/%E5%85%B6%E4%BB%96/%E5%85%B6%E4%BB%96.md)
