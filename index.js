@@ -1,7 +1,7 @@
 const path = require('path')
 const fs = require("fs")
 
-const code_path = '/Users/longjincen/Desktop/code/knowledge-Set/算法/动态规划'
+const code_path = '/Users/longjincen/Desktop/code/knowledge-Set/算法/数据结构'
 
 const dirs = fs.readdirSync(code_path, { encoding: "utf-8"})
 
@@ -14,5 +14,5 @@ for (let i = 0; i < dirs.length; i++) {
     const fileContent = fs.readFileSync(filePath, { encoding: 'utf-8' })
     result  = result + '## ' + filename + '\n' + '```javascript\n' + fileContent + '```' + '\n'
 }
-const targetPath = './动态规划/dp.md'
+const targetPath = './数据结构/数据结构.md'
 fs.writeFileSync(targetPath, result)
