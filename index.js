@@ -1,7 +1,7 @@
 const path = require('path')
 const fs = require("fs")
 
-const code_path = '/Users/longjincen/Desktop/code/knowledge-Set/算法/其他'
+const code_path = '/Users/longjincen/Desktop/code/knowledge-Set/算法/字符串'
 
 const dirs = fs.readdirSync(code_path, { encoding: "utf-8"})
 
@@ -14,5 +14,5 @@ for (let i = 0; i < dirs.length; i++) {
     const fileContent = fs.readFileSync(filePath, { encoding: 'utf-8' })
     result  = result + '## ' + filename + '\n' + '```javascript\n' + fileContent + '```' + '\n'
 }
-const targetPath = './其他/其他.md'
+const targetPath = './字符串/字符串.md'
 fs.writeFileSync(targetPath, result)
